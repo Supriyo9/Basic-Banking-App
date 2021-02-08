@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
         tranferbtn=findViewById(R.id.button_transfer);
         toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        toolbar.setTitleTextColor(getResources().getColor(android.R.color.black));
+        getSupportActionBar().setTitle(" ");
 
 
 
