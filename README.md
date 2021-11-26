@@ -1,6 +1,6 @@
 # Basic-Banking-App
 
-![visitors](https://bit.ly/30KYszm)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Supriyo9.Basic-Banking-App.readme)
 
 
 
